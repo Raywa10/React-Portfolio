@@ -1,0 +1,23 @@
+[
+  {
+    "title": "Event Management System",
+    "imageSrc": "Projects/Event.png",
+    "description": "Developed an event management platform that streamlined operations and increased event registrations.",
+    "skills": ["HTML","CSS","JavaScript","React","Node.js","MongoDB"],
+    "source": "https://github.com/Raywa10/Event-Management-System"
+  },
+  {
+    "title": "E-commerce Platform",
+    "imageSrc": "Projects/ecommerce.png",
+    "description": "Built a responsive e-commerce platform optimized for mobile, tablet, and desktop for an enhanced user experience.",
+    "skills": ["HTML5", "CSS3", "JavaScript"],
+    "source": "https://github.com/Raywa10/Ecommerce-website"
+  },
+  {
+    "title": "News and Weather App",
+    "imageSrc": "Projects/weather.png",
+    "description": "Spearheaded the creation of a news and weather app, integrating APIs for dynamic content and increasing user retention.",
+    "skills": ["JavaScript", "React", "NewsAPI", "WeatherMap API"],
+    "source": "https://github.com/Raywa10/Zert--News-and-weather-web-app"
+  }
+]

@@ -1,0 +1,46 @@
+[
+  {
+    "role": "Software Engineer Intern",
+    "organisation": "Ladder Internship",
+    "startDate": "Mar, 2025",
+    "endDate": "Present",
+    "experiences": [
+      "Collaborating with top startups and entrepreneurs."
+      
+    ],
+    "imageSrc": "History/ladder.png"
+  },
+  {
+    "role": "Software Engineer",
+    "organisation": "Revature",
+    "startDate": "Jul, 2024",
+    "endDate": "Sept, 2024",
+    "experiences": [
+      "Developed full-stack applications",
+      "Optimized application performance"
+    ],
+    "imageSrc": "History/revature.webp.png"
+  },
+  {
+    "role": "Junior Software Developer Intern",
+    "organisation": "Techlive Solutions",
+    "startDate": "Jan, 2024",
+    "endDate": "Jul, 2024",
+    "experiences": [
+      "Developed full-stack applications for improved system functionality.",
+      "Collaborated in teams to deliver solutions and meet deadlines."
+    ],
+    "imageSrc": "History/techlive.png"
+  },
+  {
+    "role": "Game Developer Intern",
+    "organisation": "Miracle Studios",
+    "startDate": "Jun, 2023",
+    "endDate": "Jul, 2023",
+    "experiences": [
+      "Created 3D objects and movement code",
+      "Implemented dynamic game mechanics"
+    ],
+    "imageSrc": "History/miracle.jpg"
+  }
+]
